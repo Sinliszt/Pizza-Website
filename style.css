@@ -1,8 +1,11 @@
+html{
+	smooth-behaviour: smooth;
+}
 body{
 	background-image: url("imagesBg.jpg");
-	/* background-repeat: no-repeat; */ 
+	background-repeat: no-repeat;
+	
 }
-
 .topnav {
 	overflow: hidden;
 	background-color: #333;
